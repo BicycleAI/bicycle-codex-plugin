@@ -1,0 +1,4 @@
+interface:
+  display_name: "Explore Bicycle"
+  short_description: "Find Bicycle metrics and valid breakdowns"
+  default_prompt: "Use $bicycle-explore to find metrics for my question."

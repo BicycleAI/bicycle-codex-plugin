@@ -1,0 +1,21 @@
+{
+  "name": "bicycle-ai",
+  "version": "0.4.0",
+  "description": "Explore your Bicycle data and answer business questions through Studio's query tools.",
+  "homepage": "https://app.bicycle.ai",
+  "repository": "https://github.com/BicycleAI/bicycle-codex-plugin",
+  "author": {
+    "name": "Bicycle"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Bicycle AI",
+    "shortDescription": "Explore domains and query Bicycle metrics.",
+    "longDescription": "Bicycle AI's OAuth connector and analyst skills for discovering accessible metrics, following each model's SQL language and explaining results.",
+    "developerName": "Bicycle",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Use Bicycle to explore available metrics and answer my data question."
+  }
+}

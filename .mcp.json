@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bicycle-ai": {
+      "type": "http",
+      "url": "https://app.bicycle.ai/mcp"
+    }
+  }
+}

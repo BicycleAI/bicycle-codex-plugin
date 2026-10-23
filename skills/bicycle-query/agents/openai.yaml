@@ -1,0 +1,4 @@
+interface:
+  display_name: "Query Bicycle"
+  short_description: "Answer business questions with Bicycle data"
+  default_prompt: "Use $bicycle-query to answer my business question."
