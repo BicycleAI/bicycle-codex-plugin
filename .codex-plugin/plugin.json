@@ -1,6 +1,6 @@
 {
   "name": "bicycle-ai",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "license": "MIT",
   "description": "Explore your Bicycle data and answer business questions through Studio's query tools.",
   "homepage": "https://app.bicycle.ai",
@@ -17,6 +17,9 @@
     "developerName": "Bicycle",
     "category": "Productivity",
     "capabilities": [],
-    "defaultPrompt": "Use Bicycle to explore available metrics and answer my data question."
+    "defaultPrompt": "Use Bicycle to explore available metrics and answer my data question.",
+    "logo": "./assets/icon.png",
+    "composerIcon": "./assets/icon.png",
+    "privacyPolicyURL": "https://bicycle.ai/legal-privacy"
   }
 }

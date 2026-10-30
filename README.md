@@ -81,6 +81,11 @@ provides Bicycle application tools; these analyst skills focus on its `query_*`
 tools. The package contains instructions and connection metadata, with no hooks,
 local MCP server code or embedded credentials.
 
+## Privacy
+
+See the [Bicycle Privacy Policy](https://bicycle.ai/legal-privacy) for information
+about how Bicycle handles personal data.
+
 ## Support
 
 Contact your Bicycle administrator for account, onboarding or domain-access
