@@ -81,6 +81,12 @@ provides Bicycle application tools; these analyst skills focus on its `query_*`
 tools. The package contains instructions and connection metadata, with no hooks,
 local MCP server code or embedded credentials.
 
+## Documentation
+
+See [Connecting Bicycle to Claude using MCP](https://docs.bicycle.ai/docs/claude/)
+for hosted connector setup, permissions, usage and troubleshooting. The plugin
+installation steps for Claude Code and Codex are above.
+
 ## Privacy
 
 See the [Bicycle Privacy Policy](https://bicycle.ai/legal-privacy) for information

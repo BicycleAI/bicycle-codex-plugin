@@ -1,6 +1,6 @@
 {
   "name": "bicycle-ai",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "license": "MIT",
   "description": "Explore your Bicycle data and answer business questions through Studio's query tools.",
   "homepage": "https://app.bicycle.ai",
