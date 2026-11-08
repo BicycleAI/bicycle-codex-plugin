@@ -39,7 +39,7 @@ Code or Codex. Never ask for credentials in chat or switch identities.
 2. **Write the SQL in that model's language.** For Studio SQL, follow
    [Studio SQL](references/studio-sql.md); its grammar, parameters, cache rules and
    result handling differ from v2. For v2, use the semantic SQL rules below,
-   [grammar](references/grammar.md) and [examples.sql](references/examples.sql).
+   [grammar](references/grammar.md) and [examples.txt](references/examples.txt).
    Copy the described `FROM` spelling; quote digit-leading or punctuated model
    identifiers with double quotes, such as `FROM "0example_model"`.
 3. **Check the plan** with `query_explain` (or `query_compile`) when the statement is
