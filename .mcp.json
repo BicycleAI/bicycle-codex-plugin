@@ -2,7 +2,24 @@
   "mcpServers": {
     "bicycle-ai": {
       "type": "http",
-      "url": "https://app.bicycle.ai/mcp"
+      "url": "https://app.bicycle.ai/mcp",
+      "extensions": {
+        "com.openai": {
+          "auth": {
+            "type": "oauth",
+            "client": {
+              "mode": "cimd"
+            },
+            "baseScopes": [
+              "apps:read"
+            ],
+            "defaultScopes": [
+              "apps:read"
+            ],
+            "oidcEnabled": false
+          }
+        }
+      }
     }
   }
 }
